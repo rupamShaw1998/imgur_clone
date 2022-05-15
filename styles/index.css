@@ -31,6 +31,7 @@ body {
 #tags h5 {
     text-align: center;
     margin: 5px 0;
+
 }
 #tags>div {
     border-radius: 5px;
@@ -67,4 +68,7 @@ body {
     font-weight: bold;
     border-radius: 7px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#container p {
+    margin-top:10px;
 }
