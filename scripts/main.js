@@ -106,7 +106,7 @@ function appendData(data) {
         let img = document.createElement("img");
         img.src = e.urls.small;
 
-        let name = document.createElement("h5");
+        let name = document.createElement("p");
         name.innerText = e.user.name;
 
         div.append(img, name);
